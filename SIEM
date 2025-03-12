@@ -1,5 +1,8 @@
-# Installation Ubuntu Desktop
+# Installation Ubuntu Desktop : Ubuntu Desktop nous servira de machine qui hebergera notre SIEM
 
-Ubuntu Desktop nous servira de machine qui hebergera notre server SIEM : 
+  1. Rendez-vous sur le lien suivant : https://www.releases.ubuntu.com/24.04.2/
+      Et telecharger l'iso avec le nom suivant : ubuntu-24.04.2-desktop-amd64.iso 
 
-1
+
+  
+  2. 
